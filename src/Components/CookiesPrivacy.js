@@ -11,7 +11,7 @@ export default function CookiesPrivacy() {
         </div>
         <div className='CookiesPrivacy_body__informationBody'>
             <p>More information</p>
-            <button>ACCEPT</button>
+            <button >ACCEPT</button>
         </div>
     </div>
   )

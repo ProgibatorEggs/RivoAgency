@@ -1,11 +1,12 @@
 import React from 'react'
 import { MdArrowOutward } from "react-icons/md";
 import logotype from './img/Rivo_logotype.png';
-
-
+import { GoChevronDown } from "react-icons/go";
 
 
 export default function Header() {
+
+
   return (
     <header className="header">
         <div className="container">
@@ -50,6 +51,7 @@ export default function Header() {
                                         </li>
                                     </ul>
                                 </ul>
+                                <GoChevronDown className='Expertise_GoChevronDown'/>
                             </nav>
                         </li>
                         <li>
