@@ -480,8 +480,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 ::-moz-selection { background: #FDDD0A; color: #fff; text-shadow: none; }
      ::selection { background: #FDDD0A; color: #fff; text-shadow: none; }
 
-/*  Testing TIC TAC TOE
-	  */
+/* 
 .board-Body{
 	margin-top: 20px;
 	top: 50%;	
@@ -504,4 +503,4 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 			background-color: aqua;
 		}
 	}
-}
+} */
